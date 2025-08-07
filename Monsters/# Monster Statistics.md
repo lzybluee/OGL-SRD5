@@ -54,7 +54,7 @@ The game includes the following monster types, which have no rules of their own.
 
 **Undead** are once-living creatures brought to a horrifying state of undeath through the practice of necromantic magic or some unholy curse. Undead include walking corpses, such as vampires and zombies, as well as bodiless spirits, such as ghosts and specters.
 
-### Tags
+#### Tags
 
 A monster might have one or more tags appended to its type, in parentheses. For example, an orc has the *humanoid (orc)* type. The parenthetical tags provide additional categorization for certain creatures. The tags have no rules of their own, but something in the game, such as a magic item, might refer to them. For instance, a spear that is especially effective at fighting demons would work against any monster that has the demon tag.
 
